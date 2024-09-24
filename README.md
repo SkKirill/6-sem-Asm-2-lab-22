@@ -16,9 +16,9 @@
 
 [Ссылка для скачивания эмулятора](http://old-dos.ru/index.php?page=files&mode=files&do=show&id=6571)
 
-Эмулятор будет просить логин и пароль:
-user: `ic0n0statse`
-key: `CSEJHFVZ3FRTQZXJKASA`
+Эмулятор будет просить логин и пароль:  
+user: `ic0n0statse`  
+key: `CSEJHFVZ3FRTQZXJKASA`  
 
 > Может попросить и не сразу, а через месяц или больше, но рано или поздно попросит!
 
