@@ -226,8 +226,7 @@ ArrayProc PROC
         
         MOV BX, CX         
         loop_edn_el:
-        ADD SI, 2               
-        
+            ADD SI, 2               
         LOOP loop_edn_el   
                        
         MOV AX, [SI]  
@@ -235,7 +234,6 @@ ArrayProc PROC
         MOV CX, BX                                                              
         DEC CX
          
-
     loop_start:
         cmp AX, [SI]   
         JE output_true   
